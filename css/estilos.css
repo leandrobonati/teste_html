@@ -1,0 +1,27 @@
+*{
+    border: 10px;
+    background-color: black;
+
+}
+
+.eli{
+    font-size: 44px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:white;
+}
+
+
+
+
+.caixa{
+    border: 4px;
+  background-color: red;
+    position: center;
+   
+}
+img{
+    position: relative;
+}
+ 
+
